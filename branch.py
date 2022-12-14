@@ -7,3 +7,5 @@ for recebe in range(2):
     lista.append(idade)
     lista.append(profissao)
 print(lista)
+
+print('ESSE PRINT FOI REALIZADO DO PERFIL DO GITHUB, OU SEJA, MODIFIQUEI DO SERVIDOR REMOTO')
